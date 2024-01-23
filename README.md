@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirunad" alt="hirunad" /></a> </p>
 
-- 🔭 I’m currently working on **Restaurant Management System & Student Attendance Application**
+- 🔭 I’m currently working on **Restaurant Management System**
 
 - 🌱 I’m currently learning **Flutter & Machine Learning**
 
