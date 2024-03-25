@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hiruna De Silva</h1>
 <h3 align="center">A Passionate Computer Undergraduate from Sri Lanka</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/HirunaD/HirunaD/assets/139198764/d0e101ec-2982-495e-8da7-06f27e307e13)">
->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hirunad&label=Profile%20views&color=0e75b6&style=flat" alt="hirunad" /> </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirunad&label=Profile%20views&color=0e75b6&style=flat" alt="hirunad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirunad" alt="hirunad" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirunad" alt="hirunad" /></a> </p>
 
 - 🔭 I’m currently working on **Restaurant Management System**
 
