@@ -14,6 +14,8 @@
 - 📫 How to reach me **hirunadesilva0422@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/hiruna-de-silva-2329aa229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiruna-de-silva" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/eg_2020_3884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eg_2020_3884" height="30" width="40" /></a>
 <p align="left">
 </p>
 
