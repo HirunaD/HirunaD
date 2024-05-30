@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Restaurant Management System**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **AI & QA**
 
 - 💬 Ask me about **Machine Learning**
 
