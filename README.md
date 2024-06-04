@@ -1,3 +1,5 @@
+[MyBanner.pdf](https://github.com/user-attachments/files/15546056/MyBanner.pdf)
+
 <h1 align="center">Hi 👋, I'm Hiruna De Silva</h1>
 <h3 align="center">A Passionate Computer Undergraduate from Sri Lanka</h3>
 
