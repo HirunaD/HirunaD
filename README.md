@@ -1,4 +1,4 @@
-[MyBanner.pdf](https://github.com/user-attachments/files/15546056/MyBanner.pdf)
+![MyBanner](https://github.com/HirunaD/HirunaD/assets/139198764/59d76828-54f5-4e7f-913f-fa66c8f8c8f8)
 
 <h1 align="center">Hi 👋, I'm Hiruna De Silva</h1>
 <h3 align="center">A Passionate Computer Undergraduate from Sri Lanka</h3>
