@@ -1,17 +1,18 @@
 ![MyBanner](https://github.com/HirunaD/HirunaD/assets/139198764/59d76828-54f5-4e7f-913f-fa66c8f8c8f8)
 
 <h1 align="center">Hi 👋, I'm Hiruna De Silva</h1>
-<h3 align="center">A Passionate Computer Undergraduate from Sri Lanka</h3>
+
+<h3 align="center">A Passionate Computer Engineering Undergraduate at the Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hirunad&label=Profile%20views&color=0e75b6&style=flat" alt="hirunad" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirunad" alt="hirunad" /></a> </p>
 
-- 🔭 I’m currently working on **Restaurant Management System**
+- 🔭 I’m currently working as an **Intern Full Stack Software Engineer in BotCalm (PVT) LTD**
 
-- 🌱 I’m currently learning **AI & QA**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **MERN Stack & Machine Learning**
 
 - 📫 How to reach me **hirunadesilva0422@gmail.com**
 
