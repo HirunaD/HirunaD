@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working as an **Intern Full Stack Software Engineer in BotCalm (PVT) LTD**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **MERN Stack & Machine Learning**
 
